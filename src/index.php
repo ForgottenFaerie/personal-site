@@ -8,6 +8,10 @@
         <meta charset="utf-8" />
     </head>
     <body>
-        
+        <header>
+            <div class="HDR-Col-1">
+                <h1>nonbinarybyte.com</h1>
+            </div>
+        </header>
     </body>
 </html>
