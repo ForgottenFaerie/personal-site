@@ -258,3 +258,88 @@ button:active {
         font-size: 15px;
     }
 }
+
+.social-links {
+    text-align: center;
+}
+
+.social-links a {
+    color: #36395A;
+    font-size: 30px;
+    transition: color 0.3s ease;
+}
+
+.social-links a:hover {
+    color: #1a1a1a;
+}
+
+.social-links h2 {
+    font-family: "Lexend Deca", sans-serif;
+    font-size: 20px;
+    margin-right: 10px;
+    color: #36395A;
+}
+
+.social-links i {
+    transition: transform 0.3s ease;
+}
+
+.social-links i:hover {
+    transform: scale(1.1);
+}
+
+.social-links i.bi-discord {
+    color: #7289da;
+}
+
+.social-links i.bi-discord:hover {
+    color: #5b6eae;
+}
+
+.social-links i.bi-facebook {
+    color: #3b5998;
+}
+
+.social-links i.bi-facebook:hover {
+    color: #2d4373;
+}
+
+.social-links i.bi-github {
+    color: #333;
+}
+
+.social-links i.bi-github:hover {
+    color: #24292e;
+}
+
+.social-links i.bi-twitter {
+    color: #1da1f2;
+}
+
+.social-links i.bi-twitter:hover {
+    color: #0d8ecf;
+}
+
+.social-links i.bi-linkedin {
+    color: #0077b5;
+}
+
+.social-links i.bi-linkedin:hover {
+    color: #005582;
+}
+
+.social-links i.bi-instagram {
+    color: #e1306c;
+}
+
+.social-links i.bi-instagram:hover {
+    color: #c13584;
+}
+
+.social-links i.bi-youtube {
+    color: #ff0000;
+}
+
+.social-links i.bi-youtube:hover {
+    color: #cc0000;
+}

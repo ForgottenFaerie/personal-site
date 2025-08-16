@@ -57,6 +57,27 @@
                         <p>I am a Web Developer, & Artist.</p>
                     </div>
                 </section>
+                <section class="social-links">
+                    <h2>Social Media Links:</h2>
+                    <a href="https://discord.com/users/1389973978356908032">
+                        <i class="bi bi-discord"></i>
+                    </a>
+                    <a href="https://www.facebook.com/profile.php?id=61579682422588">
+                        <i class="bi bi-facebook"></i>
+                    </a>
+                    <a href="https://github.com/ForgottenFaerie/">
+                        <i class="bi bi-github"></i>
+                    </a>
+                    <a href="https://www.youtube.com/@nonbinarybyte">
+                        <i class="bi bi-youtube"></i>
+                    </a>
+                    <a href="https://www.linkedin.com/in/nonbinarybyte">
+                        <i class="bi bi-linkedin"></i>
+                    </a>
+                    <a href="https://x.com/Kenny914_">
+                        <i class="bi bi-twitter"></i>
+                    </a>                    
+                </section>
             </article>
         </main>
     </body>
