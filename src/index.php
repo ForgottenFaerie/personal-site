@@ -38,10 +38,10 @@
                         <a href="portfolio.php">Portfolio.</a>
                     </button>
                     <button>
-                        <a href="https://github.com/ForgottenFaerie/personal-site">Website Source Code.</a>
+                        <a href="https://shop.nonbinarybyte.com">My Store.</a>
                     </button>
                     <button>
-                        <a href="https://shop.nonbinarybyte.com">My Store.</a>
+                        <a href="">Admin.</a>
                     </button>
                 </nav>
             </div>
@@ -56,6 +56,10 @@
                         <h2>Hi, I'm Kenny!</h2>
                         <p>I am a Web Developer, & Artist.</p>
                     </div>
+                </section>
+                <section class="about-me">
+                    <h2>About Kenny!</h2>
+                    <p>I'm a nonbinary software developer and artist who loves creating things that make life easier and more enjoyable. I specialize in web development, but I also dabble in various forms of art. My goal is to combine my technical skills with my creative passion to build unique and fun projects.</p>
                 </section>
                 <section class="social-links">
                     <h2>Social Media Links:</h2>
@@ -80,5 +84,10 @@
                 </section>
             </article>
         </main>
+            <br />
+        <footer>
+            <p>&copy; 2025 nonbinarybyte.com & Kenny Thomas-Moore. All rights reserved.</p>
+            <p>Last updated: August 2025</p>
+        </footer>
     </body>
 </html>
