@@ -378,3 +378,102 @@ footer {
     width: auto;
     border-top: #D6D6E7 2.5px solid;
 }
+
+.admin-login {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: #f5f5f5;
+}
+
+.admin-login form {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 12px rgba(0, 0, 0, 0.5);
+    width: 300px;
+}
+
+.admin-login input[type="text"],
+.admin-login input[type="password"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.admin-login input[type="submit"] {
+    background-color: #36395A;
+    color: white;
+    border: none;
+    padding: 10px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.admin-login input[type="submit"]:hover {
+    background-color: #2c2f4a;
+}
+
+.admin-login h2 {
+    font-family: "Lexend Deca", sans-serif;
+    color: #36395A;
+    margin-bottom: 20px;
+}
+
+.admin-login p {
+    font-family: "Cal Sans", sans-serif;
+    color: #36395A;
+    margin-top: 10px;
+}
+
+.admin-login a {
+    color: #36395A;
+    text-decoration: none;
+}
+
+.admin-login a:hover {
+    text-decoration: underline;
+}
+
+.admin-login .error {
+    color: red;
+    font-family: "Cal Sans", sans-serif;
+    margin-top: 10px;
+}
+
+.admin-login .success {
+    color: green;
+    font-family: "Cal Sans", sans-serif;
+    margin-top: 10px;
+}
+
+.admin-login .admin-links {
+    margin-top: 20px;
+}
+
+.admin-login .admin-links a {
+    margin: 0 10px;
+    color: #36395A;
+    text-decoration: none;
+}
+
+.admin-login .admin-links a:hover {
+    text-decoration: underline;
+}
+
+.admin-login .admin-links i {
+    font-size: 20px;
+    margin-right: 5px;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    font-family: "Cal Sans", sans-serif;
+    margin-top: 10px;
+    color: #36395A;
+}

@@ -1,6 +1,24 @@
 <?php
 
+// src/admin-login.php
+// This file is part of the nonbinarybyte.com project.
+// It serves as the admin login page for the website.
+// This page allows authorized users to log in to the admin dashboard.
 
+// Ensure that the session is started
+session_start();
+// Check if the user is already logged in
+if (isset($_SESSION['loggedin']) && $_SESSION['loggedin'] === true) {
+    // Redirect to the admin dashboard if already logged in
+    header("Location: admin-dashboard.php");
+    exit;
+}
+
+// Include necessary files for database connection or authentication
+include_once '/db.sql'; // Adjust the path as necessary
+include_once '/functions.php'; // Include any necessary functions for authentication
+// This file should handle the login logic, such as checking credentials
+// and setting session variables upon successful login.
 
 ?>
 
@@ -47,41 +65,21 @@
             </div>
         </header>
         <main>
-            <article>
-                <section class="hero">
-                    <div class="HERO-img">
-                        <img alt="picture of me!" src="https://github.com/ForgottenFaerie/nonbinarybyte.com/blob/main/assets/profile-pic2.png?raw=true" width="155" height="155" />
-                    </div>
-                    <div class="HERO-txt">
-                        <h2>Hi, I'm Kenny!</h2>
-                        <p>I am a Web Developer, & Artist.</p>
-                    </div>
-                </section>
-                <section class="about-me">
-                    <h2>About Kenny!</h2>
-                    <p>I'm a nonbinary software developer and artist who loves creating things that make life easier and more enjoyable. I specialize in web development, but I also dabble in various forms of art. My goal is to combine my technical skills with my creative passion to build unique and fun projects.</p>
-                </section>
-                <section class="social-links">
-                    <h2>Social Media Links:</h2>
-                    <a href="https://discord.com/users/1389973978356908032">
-                        <i class="bi bi-discord"></i>
-                    </a>
-                    <a href="https://www.facebook.com/profile.php?id=61579682422588">
-                        <i class="bi bi-facebook"></i>
-                    </a>
-                    <a href="https://github.com/ForgottenFaerie/">
-                        <i class="bi bi-github"></i>
-                    </a>
-                    <a href="https://www.youtube.com/@nonbinarybyte">
-                        <i class="bi bi-youtube"></i>
-                    </a>
-                    <a href="https://www.linkedin.com/in/nonbinarybyte">
-                        <i class="bi bi-linkedin"></i>
-                    </a>
-                    <a href="https://x.com/Kenny914_">
-                        <i class="bi bi-twitter"></i>
-                    </a>                    
-                </section>
+            <article class="admin-login">
+                <h2>Admin Login</h2>
+                <p>Welcome to the admin login page. Please enter your credentials to access the admin dashboard.</p>
+                <form action="admin-dashboard.php" method="post">
+                    <label for="username">Username:</label>
+                    <input type="text" id="username" name="username" required>
+                    <br>
+                    <label for="password">Password:</label>
+                    <input type="password" id="password" name="password" required>
+                    <br>
+                    <button type="submit">Login</button>
+                </form>
+                <p>If you do not have an account, please contact the site administrator.</p>
+                <p>For security reasons, please ensure you are on a secure network when accessing the admin dashboard.</p>
+                <p>Note: This page is for authorized personnel only. Unauthorized access is prohibited.</p>
             </article>
         </main>
             <br />
