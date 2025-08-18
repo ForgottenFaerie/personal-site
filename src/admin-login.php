@@ -14,12 +14,6 @@ if (isset($_SESSION['loggedin']) && $_SESSION['loggedin'] === true) {
     exit;
 }
 
-// Include necessary files for database connection or authentication
-include_once '/db.sql'; // Adjust the path as necessary
-include_once '/functions.php'; // Include any necessary functions for authentication
-// This file should handle the login logic, such as checking credentials
-// and setting session variables upon successful login.
-
 ?>
 
 <!DOCTYPE HTML>
