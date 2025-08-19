@@ -26,7 +26,7 @@
                         <a href="index.php">Home.</a>
                     </button>
                     <button>
-                        <a href="blog.php">Blog.</a>
+                        <a href="https://kennythomasmoore.medium.com">Blog.</a>
                     </button>
                     <button>
                         <a href="portfolio.php">Portfolio.</a>
