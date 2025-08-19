@@ -477,3 +477,23 @@ form {
     margin-top: 10px;
     color: #36395A;
 }
+
+.header2 {
+    font-family: "Lexend Deca", sans-serif;
+    font-size: 24px;
+    color: #36395A;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.administrative-buttons {
+    text-align: center;
+}
+
+.ADMIN-SETTINGS h3 {
+    font-family: "Lexend Deca", sans-serif;
+    font-size: 20px;
+    color: #36395A;
+    text-align: center;
+    margin-top: 20px;
+}

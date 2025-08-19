@@ -41,7 +41,7 @@
                         <a href="https://shop.nonbinarybyte.com">My Store.</a>
                     </button>
                     <button>
-                        <a href="admin-login.php">Admin.</a>
+                        <a href="admin/admin_login.php">Admin.</a>
                     </button>
                 </nav>
             </div>
