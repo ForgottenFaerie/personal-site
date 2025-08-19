@@ -1,4 +1,5 @@
-*.txt
+hashes.txt
+links.txt
 *.env
 /vendor
 /node_modules
