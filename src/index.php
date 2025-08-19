@@ -1,9 +1,3 @@
-<?php
-
-
-
-?>
-
 <!DOCTYPE HTML>
 <html>
     <head>
@@ -88,6 +82,9 @@
         <footer>
             <p>&copy; 2025 nonbinarybyte.com & Kenny Thomas-Moore. All rights reserved.</p>
             <p>Last updated: August 2025</p>
+            <div id="google_translate_element"></div>
         </footer>
+        <script src="translate.js"></script>
+        <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
     </body>
 </html>
