@@ -35,7 +35,7 @@
                         <a href="https://shop.nonbinarybyte.com">My Store.</a>
                     </button>
                     <button>
-                        <a href="admin/admin_login.php">Admin.</a>
+                        <a href="hardware.php">Hardware.</a>
                     </button>
                 </nav>
             </div>
@@ -74,7 +74,11 @@
                     </a>
                     <a href="https://x.com/Kenny914_">
                         <i class="bi bi-twitter"></i>
-                    </a>                    
+                    </a>
+                    <a href="https://bsky.app/profile/nonbinarybyte.com">
+                        <i class="bi bi-bluesky"></i>
+                    </a>   
+
                 </section>
             </article>
         </main>
