@@ -758,3 +758,38 @@ form {
     margin-top: 20px;
     padding: 10px;
 }
+
+.tech-stack-main {
+    font-family: "Inconsolata", monospace;
+    font-optical-sizing: auto;
+    font-weight: auto;
+    font-style: normal;
+    font-variation-settings:
+        "wdth" 100;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 12px rgba(0, 0, 0, 0.5);
+    padding: 20px;
+    margin: 20px auto;
+    max-width: 800px;
+    text-align: center;
+    color: #36395A;
+    line-height: 1.6;
+}
+
+.tech-stack-main img {
+    max-width: 50%;
+    height: auto;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    display: block;
+    margin: 10px auto;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    text-align: center;
+}
+
+.project-2 img {
+    width: 110%;
+    height: auto;
+    margin-left: -12.5px;
+}
