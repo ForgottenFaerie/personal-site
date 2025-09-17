@@ -9,3 +9,8 @@ links.txt
 /OLD-VERSIONS
 slug-updater.php
 update-slugs.php
+meta.txt
+db.php
+config.php
+/favicon
+*.log
