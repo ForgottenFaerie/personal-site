@@ -1,0 +1,158 @@
+<meta name="title" content="Home. | The NBS">
+<meta name="description" content="Welcome to The NBS! Nonbinarybyte's personal website. This is the home page, I hope you have a good time here! Take a look around. Maybe even look at my blog~">
+<meta name="keywords" content="nonbinarybyte, LGBT, LGBTQIA, LGBTQ, software engineer, software, developer, dev, code, coding, personal, personal site, personal website, homepage, home, home page">
+<meta name="robots" content="noindex, nofollow">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="language" content="English">
+<meta name="creationdate" content="August, 2025">
+<meta name="distribution" content="global">
+<meta name="rating" content="general">
+<meta name="copyright" content="2025">
+
+
+----------------------
+
+<meta name="title" content="Blog. | The NBS">
+<meta name="description" content="Welcome to The NBS Blog! Nonbinarybyte's personal website's blog. This blog is home to any updates I have for people that like what I do. Follow along for the ride & Have fun!!">
+<meta name="keywords" content="nonbinarybyte, LGBT, LGBTQIA, LGBTQ, software engineer, software, developer, dev, code, coding, personal, personal site, personal website, homepage, home, home page, Blog, Blogs, Blogging, Blogger, Vlog, Vlogger, Vlogging, Vloggers">
+<meta name="robots" content="noindex, nofollow">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="language" content="English">
+<meta name="creationdate" content="August, 2025">
+<meta name="distribution" content="global">
+<meta name="rating" content="general">
+<meta name="copyright" content="2025">
+
+----------------------
+
+<meta name="title" content="Blog Post(s). | The NBS">
+<meta name="description" content="Welcome to The NBS Blog! Nonbinarybyte's personal website's blog. This blog is home to any updates I have for people that like what I do. Follow along for the ride & Have fun!!">
+<meta name="keywords" content="nonbinarybyte, LGBT, LGBTQIA, LGBTQ, software engineer, software, developer, dev, code, coding, personal, personal site, personal website, homepage, home, home page, Blog, Blogs, Blogging, Blogger, Vlog, Vlogger, Vlogging, Vloggers">
+<meta name="robots" content="noindex, nofollow">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="language" content="English">
+<meta name="creationdate" content="August, 2025">
+<meta name="distribution" content="global">
+<meta name="rating" content="general">
+<meta name="copyright" content="2025">
+
+
+----------------------
+
+<title>Tech Stack & Hardware. | The NBS.</title>
+<meta name="description" content="A page dedicated to the tech and hardware I use almost daily!">
+<meta name="keywords" content="nonbinarybyte, LGBT, LGBTQIA, LGBTQ, software engineer, software, developer, dev, code, coding, personal, personal site, personal website, homepage, home, home page, Blog, Blogs, Blogging, Blogger, Vlog, Vlogger, Vlogging, Vloggers, Tech">
+<meta name="robots" content="noindex, nofollow">
+<meta name="copyright" content="2025">
+<meta name="language" content="EN">
+<meta name="author" content="Kenny Thomas-Moore">
+<meta name="creationdate" content="August, 2025">
+<meta name="distribution" content="global">
+<meta name="rating" content="general">
+
+----------------------
+
+<title>Portfolio. | The NBS.</title>
+<meta name="description" content="My work that I have made over the span of 5+ years of coding! Feel free to look, copy, or even steal my work for learning purposes. Have Fun!">
+<meta name="keywords" content="nonbinarybyte, LGBT, LGBTQIA, LGBTQ, software engineer, software, developer, dev, code, coding, personal, personal site, personal website, homepage, home, home page, Blog, Blogs, Blogging, Blogger, Vlog, Vlogger, Vlogging, Vloggers, Tech">
+<meta name="robots" content="noindex, nofollow">
+<meta name="copyright" content="2025">
+<meta name="language" content="EN">
+<meta name="author" content="Kenny Thomas-Moore">
+<meta name="creationdate" content="August, 2025">
+<meta name="distribution" content="global">
+<meta name="rating" content="general">
+
+----------------------
+
+<title>Admin Login. | The NBS.</title>
+<meta name="description" content="The secret admin login~ shh...">
+<meta name="keywords" content="nonbinarybyte, LGBT, LGBTQIA, LGBTQ, software engineer, software, developer, dev, code, coding, personal, personal site, personal website, homepage, home, home page, Blog, Blogs, Blogging, Blogger, Vlog, Vlogger, Vlogging, Vloggers, Tech">
+<meta name="robots" content="noindex, nofollow">
+<meta name="copyright" content="2025">
+<meta name="language" content="EN">
+<meta name="author" content="Kenny Thomas-Moore">
+<meta name="creationdate" content="August, 2025">
+<meta name="distribution" content="global">
+<meta name="rating" content="general">
+
+----------------------
+
+<title>Contact Me. | The NBS.</title>
+<meta name="description" content="A way to get in contact with me, Kenny! :3">
+<meta name="keywords" content="nonbinarybyte, LGBT, LGBTQIA, LGBTQ, software engineer, software, developer, dev, code, coding, personal, personal site, personal website, homepage, home, home page, Blog, Blogs, Blogging, Blogger, Vlog, Vlogger, Vlogging, Vloggers, Tech">
+<meta name="robots" content="noindex, nofollow">
+<meta name="copyright" content="2025">
+<meta name="language" content="EN">
+<meta name="author" content="Kenny Thomas-Moore">
+<meta name="creationdate" content="August, 2025">
+<meta name="distribution" content="global">
+<meta name="rating" content="general">
+
+----------------------
+
+<title>400 BAD REQUEST. | The NBS.</title>
+<meta name="description" content="There has been a bad request...">
+<meta name="keywords" content="nonbinarybyte, LGBT, LGBTQIA, LGBTQ, software engineer, software, developer, dev, code, coding, personal, personal site, personal website, homepage, home, home page, Blog, Blogs, Blogging, Blogger, Vlog, Vlogger, Vlogging, Vloggers, Tech">
+<meta name="robots" content="noindex, nofollow">
+<meta name="copyright" content="2025">
+<meta name="language" content="EN">
+<meta name="author" content="Kenny Thomas-Moore">
+<meta name="creationdate" content="August, 2025">
+<meta name="distribution" content="global">
+<meta name="rating" content="general">
+
+----------------------
+
+<title>401 UNAUTHORIZED. | The NBS.</title>
+<meta name="description" content="You arent able to see this page!! be quiet!!">
+<meta name="keywords" content="nonbinarybyte, LGBT, LGBTQIA, LGBTQ, software engineer, software, developer, dev, code, coding, personal, personal site, personal website, homepage, home, home page, Blog, Blogs, Blogging, Blogger, Vlog, Vlogger, Vlogging, Vloggers, Tech">
+<meta name="robots" content="noindex, nofollow">
+<meta name="copyright" content="2025">
+<meta name="language" content="EN">
+<meta name="author" content="Kenny Thomas-Moore">
+<meta name="creationdate" content="August, 2025">
+<meta name="distribution" content="global">
+<meta name="rating" content="general">
+
+----------------------
+
+<title>403 FORBIDDEN. | The NBS.</title>
+<meta name="description" content="You arent able to see this page!! be quiet!!">
+<meta name="keywords" content="nonbinarybyte, LGBT, LGBTQIA, LGBTQ, software engineer, software, developer, dev, code, coding, personal, personal site, personal website, homepage, home, home page, Blog, Blogs, Blogging, Blogger, Vlog, Vlogger, Vlogging, Vloggers, Tech">
+<meta name="robots" content="noindex, nofollow">
+<meta name="copyright" content="2025">
+<meta name="language" content="EN">
+<meta name="author" content="Kenny Thomas-Moore">
+<meta name="creationdate" content="August, 2025">
+<meta name="distribution" content="global">
+<meta name="rating" content="general">
+
+----------------------
+
+<title>429 TOO MANY REQUESTS. | The NBS.</title>
+<meta name="description" content="You have been rate limited @_@">
+<meta name="keywords" content="nonbinarybyte, LGBT, LGBTQIA, LGBTQ, software engineer, software, developer, dev, code, coding, personal, personal site, personal website, homepage, home, home page, Blog, Blogs, Blogging, Blogger, Vlog, Vlogger, Vlogging, Vloggers, Tech">
+<meta name="robots" content="noindex, nofollow">
+<meta name="copyright" content="2025">
+<meta name="language" content="EN">
+<meta name="author" content="Kenny Thomas-Moore">
+<meta name="creationdate" content="August, 2025">
+<meta name="distribution" content="global">
+<meta name="rating" content="general">
+
+----------------------
+
+<title>404 NOT FOUND. | The NBS.</title>
+<meta name="description" content="Your page wasnt found :(">
+<meta name="keywords" content="nonbinarybyte, LGBT, LGBTQIA, LGBTQ, software engineer, software, developer, dev, code, coding, personal, personal site, personal website, homepage, home, home page, Blog, Blogs, Blogging, Blogger, Vlog, Vlogger, Vlogging, Vloggers, Tech">
+<meta name="robots" content="noindex, nofollow">
+<meta name="copyright" content="2025">
+<meta name="language" content="EN">
+<meta name="author" content="Kenny Thomas-Moore">
+<meta name="creationdate" content="August, 2025">
+<meta name="distribution" content="global">
+<meta name="rating" content="general">
+
+----------------------
+

@@ -1,16 +1,17 @@
 <!DOCTYPE HTML>
 <html>
     <head>
-        <title>My Work.</title>
+        <title>Tech Stack.</title>
+        <link rel="stylesheet" href="index.css" />
+        <link rel="stylesheet" href="tech.css" />
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/font/bootstrap-icons.min.css">
-        <link rel="stylesheet" href="styles.css" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <meta charset="utf-8" />
         <meta lang="en" />
         <meta name="description" content="Welcome to nonbinarybyte.com, the personal website of Forgotten Faerie, a nonbinary software developer and artist. Explore my portfolio, blog, and more." />
         <meta name="keywords" content="nonbinary, software developer, artist, personal website, portfolio, blog" />
         <meta name="author" content="Forgotten Faerie" />
-        <link rel="icon" href="/favicon/favicon.ico" type="image/x-icon" />
+        <link rel="xicon" href="/favicon/favicon.ico" type="image/x-icon" />
         <link rel="preconnect" href="https://fonts.googleapis.com">
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
         <link href="https://fonts.googleapis.com/css2?family=Cal+Sans&family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&family=Inconsolata:wght@200..900&family=Lexend+Deca:wght@100..900&family=Spectral:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,200;1,300;1,400;1,500;1,600;1,700;1,800&display=swap" rel="stylesheet">
@@ -23,69 +24,46 @@
             <div class="HDR-Col-2">
                 <nav>
                     <button>
-                        <a href="index.html">Home.</a>
+                        <a href="index.php">Home.</a>
                     </button>
                     <button>
-                        <a href="https://kennythomasmoore.medium.com">Blog.</a>
+                        <a href="blog.php">Blog.</a>
                     </button>
                     <button>
-                        <a href="portfolio.html">Portfolio.</a>
+                        <a href="portfolio.php">Portfolio.</a>
                     </button>
                     <button>
-                        <a href="https://shop.nonbinarybyte.com">My Store.</a>
-                    </button>
-                    <button>
-                        <a href="hardware.html">Hardware.</a>
+                        <a href="hardware.php">Hardware.</a>
                     </button>
                 </nav>
             </div>
         </header>
         <main>
             <article>
-                <section class="portfolio">
-                    <h2>My Portfolio...</h2>
-                    <div class="works">
-                        <div class="project-1">
-                            <h3>Personal Website</h3>
-                            <p>A personal website built using HTML, CSS, and JavaScript to showcase my portfolio, blog, and contact information.</p>
-                            <a href="https://github.com/ForgottenFaerie/personal-site" target="_blank">Source Code</a>
-                        </div>
-                        <div class="project-2">
-                            <h3>Hash Script</h3>
-                            <p>a super super simple hash script made with PHP. There is not going to be a repo so just copy the code in the image below.<p>
-                            <img src="/hashscript-php.png">
-                        </div>
-                        <div class="project-3">
-                            <h3>DevTube</h3>
-                            <p>A YouTube clone built with PHP, FLASK and MySQL, featuring video playback functionality, & playlists.</p>
-                            <a href="https://github.com/ForgottenFaerie/DevTube" target="_blank">Source Code</a>
-                        </div>
-                        <div class="project-4">
-                            <h3>SimpleTerminal</h3>
-                            <p>A Simple Linux Terminal EMULATOR, made with C. Soon to be on windows when I fix it up a bit.</p>
-                            <a href="https://github.com/ForgottenFaerie/SimpleTerm" target="_blank">Source Code</a>
-                        </div>
-                    </div>
+                <section class="tech-stack">
+                    <h2>Tech Stack:</h2>
+                    <ul>
+                        <li>Frontend: HTML, CSS, JavaScript</li>
+                        <li>Frameworks: Bootstrap, Tailwind </li>
+                        <li>Backend: PHP</li>
+                        <li>Database: MySQL</li>
+                        <li>Hosting: GitHub Pages, InfinityFree, Vercel, Render, & More!</li>
+                        <li>Version Control: Git & GitHub</li>
+                        <li>Domains & DNS: Cloudflare, Namecheap</li>
+                        <li>Design Tools: Canva, Frame0, & Figma (rarely.) </li>
+                        <li>Other Tools: VS Code, Browser DevTools</li>
+                    </ul>
                 </section>
                 <section class="social-links">
                     <h2>Social Media Links:</h2>
                     <a href="https://discord.com/users/1389973978356908032">
                         <i class="bi bi-discord"></i>
                     </a>
-                    <a href="https://www.facebook.com/profile.php?id=61579682422588">
-                        <i class="bi bi-facebook"></i>
-                    </a>
                     <a href="https://github.com/ForgottenFaerie/">
                         <i class="bi bi-github"></i>
                     </a>
                     <a href="https://www.youtube.com/@nonbinarybyte">
                         <i class="bi bi-youtube"></i>
-                    </a>
-                    <a href="https://www.linkedin.com/in/nonbinarybyte">
-                        <i class="bi bi-linkedin"></i>
-                    </a>
-                    <a href="https://x.com/Kenny914_">
-                        <i class="bi bi-twitter"></i>
                     </a>
                     <a href="https://bsky.app/profile/nonbinarybyte.com">
                         <i class="bi bi-bluesky"></i>
@@ -96,7 +74,7 @@
             <br />
         <footer>
             <p>&copy; 2025 nonbinarybyte.com & Kenny Thomas-Moore. All rights reserved.</p>
-            <p>Last updated: August 2025</p>
+            <p>Last updated: September 12th 2025</p>
             <div id="google_translate_element"></div>
         </footer>
         <script src="translate.js"></script>

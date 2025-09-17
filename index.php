@@ -1,15 +1,15 @@
 <!DOCTYPE HTML>
 <html>
     <head>
-        <title>Home.</title>
+        <meta name="title" content="Home. | The NBS">
+        <meta name="description" content="Welcome to The NBS! Nonbinarybyte's personal website. This is the home page, I hope you have a good time here! Take a look around. Maybe even look at my blog~">
+        <meta name="keywords" content="nonbinarybyte, LGBT, LGBTQIA, LGBTQ, software engineer, software, developer, dev, code, coding, personal, personal site, personal website, homepage, home, home page">
+        <meta name="robots" content="noindex, nofollow">
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        <meta name="language" content="English">
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/font/bootstrap-icons.min.css">
-        <link rel="stylesheet" href="styles.css" />
+        <link rel="stylesheet" href="index.css" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <meta charset="utf-8" />
-        <meta lang="en" />
-        <meta name="description" content="Welcome to nonbinarybyte.com, the personal website of Forgotten Faerie, a nonbinary software developer and artist. Explore my portfolio, blog, and more." />
-        <meta name="keywords" content="nonbinary, software developer, artist, personal website, portfolio, blog" />
-        <meta name="author" content="Forgotten Faerie" />
         <link rel="icon" href="/favicon/favicon.ico" type="image/x-icon" />
         <link rel="preconnect" href="https://fonts.googleapis.com">
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -23,42 +23,34 @@
             <div class="HDR-Col-2">
                 <nav>
                     <button>
-                        <a href="index.html">Home.</a>
+                        <a href="index.php">Home.</a>
                     </button>
                     <button>
-                        <a href="https://kennythomasmoore.medium.com">Blog.</a>
+                        <a href="blog.php">Blog.</a>
                     </button>
                     <button>
-                        <a href="portfolio.html">Portfolio.</a>
+                        <a href="portfolio.php">Portfolio.</a>
                     </button>
                     <button>
-                        <a href="https://shop.nonbinarybyte.com">My Store.</a>
-                    </button>
-                    <button>
-                        <a href="hardware.html">Hardware.</a>
+                        <a href="hardware.php">Hardware.</a>
                     </button>
                 </nav>
             </div>
         </header>
         <main>
             <article>
-                <section class="art">
-                    <h2>My Art.</h2>
-                    <p>This will include Crochet, Sewing, & doodles. Plus a bunch more!</p>
-                    <div class="art-gallery">
-                        <div id="hcg-slider-1" class="hcg-slider">
-                        <div class="hcg-slide-container">
-                        <div class="hcg-slider-body">
-                            <a class="hcg-slides animated" style="display:flex">
-                                <span class="hcg-slide-number">1/5</span>
-                                <img src="https://cdn.nonbinarybyte.com/IMG_4061_Original.JPG" alt="Cat Hat (Front)">
-                                <span class="hcg-slide-text">Cat Hat (Front)</span>
-                            </a>
-                        </div>
+                <section class="hero">
+                    <div class="HERO-img">
+                        <img alt="picture of me!" src="https://github.com/ForgottenFaerie/nonbinarybyte.com/blob/main/assets/profile-pic2.png?raw=true" width="155" height="155" />
                     </div>
-                    <div class="hcg-slide-dot-control"></div>
+                    <div class="HERO-txt">
+                        <h2>Hi, I'm Kenny!</h2>
+                        <p>I am a Web Developer, & Artist.</p>
                     </div>
-                    </div>
+                </section>
+                <section class="about-me">
+                    <h2>About Kenny!</h2>
+                    <p>I'm a nonbinary software developer and artist who loves creating things that make life easier and more enjoyable. I specialize in web development, but I also dabble in various forms of art. My goal is to combine my technical skills with my creative passion to build unique and fun projects.</p>
                 </section>
                 <section class="extra-pages">
                     <h2>Explore More Of The KennyVerse!</h2>
@@ -66,11 +58,14 @@
                         <a href="mailto:developerktm@nonbinarybyte.com">Contact Me via E-Mail.</a>
                     </button>
                     <button>
-                        <a href="tech-stack.html">My Tech Stack.</a>
+                        <a href="tech-stack.php">My Tech Stack.</a>
                     </button>
                         <br />
                     <button>
-                        <a href="https://ko-fi.com/nonbinarybyte">Donate.</a>
+                        <a href="https://patreon.com/c/kenny914_">Donate.</a>
+                    </button>
+                    <button>
+                        <a href="login.php">Admin Login.</a>
                     </button>
                 </section>
                 <section class="social-links">
@@ -78,35 +73,28 @@
                     <a href="https://discord.com/users/1389973978356908032">
                         <i class="bi bi-discord"></i>
                     </a>
-                    <a href="https://www.facebook.com/profile.php?id=61579682422588">
-                        <i class="bi bi-facebook"></i>
-                    </a>
                     <a href="https://github.com/ForgottenFaerie/">
                         <i class="bi bi-github"></i>
                     </a>
                     <a href="https://www.youtube.com/@nonbinarybyte">
                         <i class="bi bi-youtube"></i>
                     </a>
-                    <a href="https://www.linkedin.com/in/nonbinarybyte">
-                        <i class="bi bi-linkedin"></i>
-                    </a>
-                    <a href="https://x.com/Kenny914_">
-                        <i class="bi bi-twitter"></i>
-                    </a>
                     <a href="https://bsky.app/profile/nonbinarybyte.com">
                         <i class="bi bi-bluesky"></i>
                     </a>   
-
+                </section>
+                <section class="why">
+                    <h2>Why the main site has css but the blog dosent.</h2>
+                    <p>The main website (nonbinarybyte.com) has CSS because i want it to look good to others. The blog (nonbinarybyte.com/blog.php) does not have CSS because its just my blog & I was too lazy to add CSS. Plus I know that I wont get many visitors on the main site let alone get clicks to other sites on here, so I might as well not waste my time on it, ya know?</p>
                 </section>
             </article>
         </main>
             <br />
         <footer>
             <p>&copy; 2025 nonbinarybyte.com & Kenny Thomas-Moore. All rights reserved.</p>
-            <p>Last updated: August 2025</p>
+            <p>Last updated: September 12th 2025</p>
             <div id="google_translate_element"></div>
         </footer>
-        <script src="images.js"></script>
         <script src="translate.js"></script>
         <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
     </body>

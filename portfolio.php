@@ -1,9 +1,10 @@
 <!DOCTYPE HTML>
 <html>
     <head>
-        <title>Home.</title>
+        <title>Portfolio.</title>
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/font/bootstrap-icons.min.css">
-        <link rel="stylesheet" href="styles.css" />
+        <link rel="stylesheet" href="index.css" />
+        <link rel="stylesheet" href="portfolio.css" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <meta charset="utf-8" />
         <meta lang="en" />
@@ -23,70 +24,46 @@
             <div class="HDR-Col-2">
                 <nav>
                     <button>
-                        <a href="index.html">Home.</a>
+                        <a href="index.php">Home.</a>
                     </button>
                     <button>
-                        <a href="https://kennythomasmoore.medium.com">Blog.</a>
+                        <a href="blog.php">Blog.</a>
                     </button>
                     <button>
-                        <a href="portfolio.html">Portfolio.</a>
+                        <a href="portfolio.php">Portfolio.</a>
                     </button>
                     <button>
-                        <a href="https://shop.nonbinarybyte.com">My Store.</a>
-                    </button>
-                    <button>
-                        <a href="hardware.html">Hardware.</a>
+                        <a href="hardware.php">Hardware.</a>
                     </button>
                 </nav>
             </div>
         </header>
         <main>
             <article>
-                <section class="hero">
-                    <div class="HERO-img">
-                        <img alt="picture of me!" src="https://github.com/ForgottenFaerie/nonbinarybyte.com/blob/main/assets/profile-pic2.png?raw=true" width="155" height="155" />
+                <section class="portfolio">
+                    <div class="project-1">
+                        <h3>Tetris.</h3>
+                        <a href="https://nonbinarybyte.itch.io/tetris">Link To Play!</a>
+                            <br />
+                        <img src="https://img.itch.zone/aW1nLzIzMTcwOTcyLnBuZw==/347x500/LVdzHG.png" width="187" height="250" />
                     </div>
-                    <div class="HERO-txt">
-                        <h2>Hi, I'm Kenny!</h2>
-                        <p>I am a Web Developer, & Artist.</p>
+                    <div class="project-1">
+                        <h3>Personal Site.</h3>
+                        <a href="https://nonbinarybyte.com/">Link To Site.</a>
+                            <br />
+                        <img src="localhost.jpeg" width="120" height="102" />
                     </div>
-                </section>
-                <section class="about-me">
-                    <h2>About Kenny!</h2>
-                    <p>I'm a nonbinary software developer and artist who loves creating things that make life easier and more enjoyable. I specialize in web development, but I also dabble in various forms of art. My goal is to combine my technical skills with my creative passion to build unique and fun projects.</p>
-                </section>
-                <section class="extra-pages">
-                    <h2>Explore More Of The KennyVerse!</h2>
-                    <button>
-                        <a href="mailto:developerktm@nonbinarybyte.com">Contact Me via E-Mail.</a>
-                    </button>
-                    <button>
-                        <a href="tech-stack.html">My Tech Stack.</a>
-                    </button>
-                        <br />
-                    <button>
-                        <a href="https://ko-fi.com/nonbinarybyte">Donate.</a>
-                    </button>
                 </section>
                 <section class="social-links">
                     <h2>Social Media Links:</h2>
                     <a href="https://discord.com/users/1389973978356908032">
                         <i class="bi bi-discord"></i>
                     </a>
-                    <a href="https://www.facebook.com/profile.php?id=61579682422588">
-                        <i class="bi bi-facebook"></i>
-                    </a>
                     <a href="https://github.com/ForgottenFaerie/">
                         <i class="bi bi-github"></i>
                     </a>
                     <a href="https://www.youtube.com/@nonbinarybyte">
                         <i class="bi bi-youtube"></i>
-                    </a>
-                    <a href="https://www.linkedin.com/in/nonbinarybyte">
-                        <i class="bi bi-linkedin"></i>
-                    </a>
-                    <a href="https://x.com/Kenny914_">
-                        <i class="bi bi-twitter"></i>
                     </a>
                     <a href="https://bsky.app/profile/nonbinarybyte.com">
                         <i class="bi bi-bluesky"></i>
@@ -97,7 +74,7 @@
             <br />
         <footer>
             <p>&copy; 2025 nonbinarybyte.com & Kenny Thomas-Moore. All rights reserved.</p>
-            <p>Last updated: September 2025</p>
+            <p>Last updated: September 12th 2025</p>
             <div id="google_translate_element"></div>
         </footer>
         <script src="translate.js"></script>
