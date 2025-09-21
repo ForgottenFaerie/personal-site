@@ -6,7 +6,7 @@ links.txt
 *.sql
 /src/db.php
 /src/init.php
-/OLD-VERSIONS
+/private
 slug-updater.php
 update-slugs.php
 meta.txt
