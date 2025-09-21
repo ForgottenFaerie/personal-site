@@ -41,8 +41,6 @@
 
 - [x] Connect a DB.
 
-- [ ] Pay for infinity free for more storage.
-
 - [ ] add the following pages...
 
     - contact.php
