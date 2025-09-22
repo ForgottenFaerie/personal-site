@@ -18,7 +18,7 @@
     <body>
         <header>
             <div class="HDR-Col-1">
-                <h1>nonbinarybyte.com</h1>
+                <h1>kenny914.dev</h1>
             </div>
             <div class="HDR-Col-2">
                 <nav>
@@ -79,7 +79,7 @@
                     <a href="https://www.youtube.com/@nonbinarybyte">
                         <i class="bi bi-youtube"></i>
                     </a>
-                    <a href="https://bsky.app/profile/nonbinarybyte.com">
+                    <a href="https://bsky.app/profile/kenny914.bsky.social">
                         <i class="bi bi-bluesky"></i>
                     </a>   
                 </section>
@@ -91,7 +91,7 @@
         </main>
             <br />
         <footer>
-            <p>&copy; 2025 nonbinarybyte.com & Kenny Thomas-Moore. All rights reserved.</p>
+            <p>&copy; 2025 kenny914.dev & Kenny Thomas-Moore. All rights reserved.</p>
             <p>Last updated: September 12th 2025</p>
             <div id="google_translate_element"></div>
         </footer>

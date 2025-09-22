@@ -352,6 +352,14 @@ button:active {
     color: #147abf;
 }
 
+.social-links i.bi-mastodon {
+    color: #3088d4;
+}
+
+.social-links i.bi-mastodon:hover {
+    color: #246bb3;
+}
+
 .about-me {
     max-width: 800px;
     width: auto;

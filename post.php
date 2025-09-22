@@ -1,3 +1,8 @@
+<?php
+include 'config.php'; // loads env + DB connection
+?>
+
+
 <?php include 'db.php'; ?>
 
 <?php
@@ -42,14 +47,6 @@ function formatPost($text) {
 // Get slug from URL
 $slug = isset($_GET['slug']) ? $_GET['slug'] : '';
 
-// Database connection
-$host = "sql303.infinityfree.com";
-$user = "if0_39927557";
-$pass = "YlIyQssSpv4";
-$dbname = "if0_39927557_db";
-$conn = new mysqli($host, $user, $pass, $dbname);
-if ($conn->connect_error) { die("Connection failed: " . $conn->connect_error); }
-
 // Fetch post by slug
 $stmt = $conn->prepare("SELECT * FROM posts WHERE slug = ?");
 $stmt->bind_param("s", $slug);
@@ -93,6 +90,18 @@ $conn->close();
             echo "<small>Posted on ".$row['created_at']."</small>";
         } else {
             echo "Post not found.";
+        }
+    }
+
+    if (!empty($row['media'])) {
+    $ext = pathinfo($row['media'], PATHINFO_EXTENSION);
+    if (in_array($ext, ['jpg', 'jpeg', 'png', 'gif'])) {
+        echo "<img src='".$row['media']."' alt='Post Media' style='max-width:400px;'><br>";
+    } elseif ($ext == 'mp4') {
+        echo "<video controls width='400'>
+                <source src='".$row['media']."' type='video/mp4'>
+              Your browser does not support the video tag.
+              </video><br>";
         }
     }
     ?>

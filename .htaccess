@@ -27,3 +27,9 @@ Options -Indexes
 
 # Pretty URLs for blog posts (virtual /blog path)
 RewriteRule ^blog/([a-zA-Z0-9_-]+)$ /post.php?slug=$1 [L,QSA]
+
+# prevent .env file access
+<Files .env>
+  Order allow,deny
+  Deny from all
+</>
