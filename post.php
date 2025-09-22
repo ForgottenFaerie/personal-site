@@ -12,19 +12,6 @@ if (isset($_GET['id'])) {
         echo "<h1>" . htmlspecialchars($row['title']) . "</h1>";
         echo formatPost($row['content']);
         echo "<small>Posted on " . $row['created_at'] . "</small>";
-
-        // Show media if available
-        if (!empty($row['media'])) {
-            $ext = pathinfo($row['media'], PATHINFO_EXTENSION);
-            if (in_array($ext, ['jpg', 'jpeg', 'png', 'gif'])) {
-                echo "<br><img src='" . $row['media'] . "' alt='Post Media' style='max-width:400px;'>";
-            } elseif ($ext == 'mp4') {
-                echo "<br><video controls width='400'>
-                        <source src='" . $row['media'] . "' type='video/mp4'>
-                      Your browser does not support the video tag.
-                      </video>";
-            }
-        }
     } else {
         http_response_code(404);
         echo "Post not found.";
