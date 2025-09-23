@@ -1,14 +1,10 @@
 <h1 align="center">Personal Site!</h1>
 
-<img src="localhost.jpeg" />
-
----
-
 <h2 align="center">Tech Stack Used.</h2>
 
 - PHP
 - HTML
-- CSS
+- CSS [*tailwindcss + bootstrap icons*]
 - JS
 - INFINITY FREE (*hosting*)
 - NAMECHEAP (*domains*)
@@ -25,28 +21,31 @@
 
 - [x] Blog + Posts.
 
-- [ ] Pretty Links for Posts.
-
-- [x] Portfolio.
+- [ ] Portfolio.
 
 - [x] Google Translate @ Footer.
 
 - [ ] Basic Styling for Blog.
 
-- [ ] Custom Domain Connection on Infinity Free.
+- [x] Custom Domain Connection on Infinity Free.
 
 - [x] 400, 401, 403, 404, 429 Error pages.
 
-- [x] Remove all versions previous to version *1.0* and swap to website version *2.0*.
+- [x] Remove all versions previous to version *1.0 & 2.0* and swap to website version *3.0*.
 
 - [x] Connect a DB.
 
 - [ ] add the following pages...
 
-    - contact.php
-    - newsletter.php
-    - tos.php
-    - privacy.php
+    - [ ] contact.php
+    - [ ] newsletter.php
+    - [ ] tos.php
+    - [ ] privacy.php
+    - [x] index.php
+    - [x] add_post.php
+    - [x] login.php
+    - [x] logout.php
+    - [x] blog.php
 
 ---
 <h2 align="center"> Bye Bye!</h2>
