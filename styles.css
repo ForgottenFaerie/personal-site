@@ -270,6 +270,7 @@ header {
 }
 
 footer {
+    font-family: "Lexend Deca", sans-serif;
     text-align: center;
     width: 100%;
     background-color: #ffffff;
@@ -329,4 +330,45 @@ aside {
 aside, h3 {
     text-align: center;
     font: 600 1.2em "Lexend Deca", sans-serif;
+}
+
+.h2-main {
+    text-align: center;
+    font: 700 2.5em "Lexend Deca", sans-serif;
+    margin-top: 0;
+    margin-bottom: 20px;
+    color: darkslategray;
+}
+
+.footer-col {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    margin-top: 10px;
+}
+
+.foot1, .foot2 {
+    float: left;
+    background-color: lightgray;
+    padding: 5px 10px;
+    width: 100%;
+}
+
+.about-me-sect1, .skills-sect2 {
+    margin-top: 20px;
+    text-align: center;
+    font-family: "Lexend Deca", sans-serif;
+    background-color: #ffffff;
+    border: 1px solid #dddddd;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin-bottom: 20px;
+    box-sizing: border-box;
+}
+
+.skills-box img {
+    width: 50px;
+    height: 50px;
+    margin: 10px;
 }

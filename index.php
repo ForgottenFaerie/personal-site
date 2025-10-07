@@ -22,6 +22,7 @@
         <link rel="preconnect" href="https://fonts.googleapis.com">
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
         <link href="https://fonts.googleapis.com/css2?family=Cal+Sans&family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&family=Inconsolata:wght@200..900&family=Lexend+Deca:wght@100..900&family=Spectral:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,200;1,300;1,400;1,500;1,600;1,700;1,800&display=swap" rel="stylesheet">
+        <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
     </head>
     <body>
         <header>
@@ -54,12 +55,43 @@
             </nav>
         </header>
         <main>
-            <section class="HERO-SECTION-1"></section>
-            <section class="main-body"></section>
+            <h2 class="h2-main">Kenny914.dev</h2>
+            <div class="maincont">
+                <section class="about-me-sect1">
+                    <h4>About Me!</h4>
+                    <p>Hiya! I'm Kenny Thomas-Moore. A Webdev from the USA. I am 17 & use he/they pronouns. I love to code, crochet, sew, write, & make pottery!
+                        <br />I love to be creative & experiment with what I do. It's more fun that way.
+                    </p>
+                </section>
+                <section class="skills-sect2">
+                    <h4>My Skills consist of...</h4>
+                    <div class="skills-box">
+                        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+                        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+                        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original-wordmark.svg" />
+                        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+                        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/discordjs/discordjs-original.svg" />
+                        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" />
+                        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />
+                        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+                        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hugo/hugo-original-wordmark.svg" />
+                        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+                        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+                        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg" />
+                        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" />
+                        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+                        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" />
+                        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" />
+                        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+                        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" />
+                        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
+                    </div>
+                </section>
+            </div>
             <aside>
                 <h3>Links</h3>
                 <div class="social-links">
-                    <a href="https://github.com/ForgottenFaerie/">
+                    <a href="https://github.com/kenny914/">
                         <i class="bi bi-github"></i>
                     </a>
                     <a href="https://instagram.com/azte.a">
@@ -72,12 +104,24 @@
                 <h3>Random Things</h3>
                 <div class="random-things">
                     <a href="https://throne.com/nonbinarybyte">Wishlist</a>
+                        <br />
+                    <a href="https://ko-fi.com/kenny914">Ko-Fi</a>
+                        <br />
+                    <a href="https://github.com/kenny914/personal-site">Source Code</a>
                 </div>
             </aside>
         </main>
         <footer>
             <p>© Kenny914.dev | ALL RIGHTS RESERVED.</p>
             <div id="google_translate_element"></div>
+            <div class="footer-col">
+                <div class="foot1">
+                    <p>Site by Kenny Thomas-Moore</p>
+                </div>
+                <div class="foot2">
+                    <p>Last Updated: Oct 2025. | Version 3.0.0</p>
+                </div>
+            </div>
         </footer>
         <script src="translate.js"></script>
         <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
