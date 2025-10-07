@@ -372,3 +372,65 @@ aside, h3 {
     height: 50px;
     margin: 10px;
 }
+
+.skills-box img:hover {
+    transform: scale(1.1);
+    transition: transform 0.3s ease;
+}
+
+.PORTFOLIO-MAIN {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 20px;
+    margin-top: 20px;
+    font-family: "Lexend Deca", sans-serif;
+}
+
+.PORTFOLIO-ITEM {
+    background-color: #ffffff;
+    border: 1px solid #dddddd;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 15px;
+    text-align: center;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.PORTFOLIO-ITEM:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.PORTFOLIO-ITEM img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 4px;
+    margin-bottom: 10px;
+}
+
+.PORTFOLIO-ITEM h3 {
+    margin: 10px 0 5px 0;
+    font-size: 1.2em;
+    color: darkslategray;
+}
+
+.PORTFOLIO-ITEM p {
+    font-size: 0.9em;
+    color: #555555;
+    margin: 0 0 10px 0;
+}
+
+.PORTFOLIO-ITEM a {
+    display: inline-block;
+    margin-top: 10px;
+    padding: 8px 12px;
+    background-color: lightseagreen;
+    color: #ffffff;
+    border-radius: 4px;
+    text-decoration: none;
+    transition: background-color 0.3s ease;
+}
+
+.PORTFOLIO-ITEM a:hover {
+    background-color: #137f7f;
+}

@@ -1,6 +1,6 @@
-<!DOCTYPE html>
+<!DOCTYPE HTML>
 <html>
-    <head>
+        <head>
         <meta charset="UTF-8">
         <meta name="author" content="Kenny Thomas-Moore">
         <meta name="keywords" content="Kenny Thomas-Moore, developer, portfolio, blog, coding, crochet, fashion, makeup, creative projects, kenny914.dev">
@@ -43,38 +43,20 @@
             </nav>
         </header>
         <main>
-            <h2 class="h2-main">Kenny914.dev</h2>
-            <div class="maincont">
-                <section class="about-me-sect1">
-                    <h4>About Me!</h4>
-                    <p>Hiya! I'm Kenny Thomas-Moore. A Webdev from the USA. I am 17 & use he/they pronouns. I love to code, crochet, sew, write, & make pottery!
-                        <br />I love to be creative & experiment with what I do. It's more fun that way.
-                    </p>
-                </section>
-                <section class="skills-sect2">
-                    <h4>My Skills consist of...</h4>
-                    <div class="skills-box">
-                        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-                        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-                        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original-wordmark.svg" />
-                        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-                        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/discordjs/discordjs-original.svg" />
-                        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" />
-                        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />
-                        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-                        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hugo/hugo-original-wordmark.svg" />
-                        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-                        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
-                        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg" />
-                        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" />
-                        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
-                        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" />
-                        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" />
-                        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
-                        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" />
-                        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
+            <div class="PORTFOLIO-MAIN">
+                <h2 class="h2-main">Portfolio</h2>
+                <div class="portfolio-items">
+                    <div class="portfolio-item">
+                        <h3>Personal Website.</h3>
+                        <p>My personal website, working blog + more</p>
+                        <a href="https://kenny914.dev/">View Project</a>
                     </div>
-                </section>
+                    <div class="portfolio-item">
+                        <h3>YouTube-Downloader.py</h3>
+                        <p>A python script to download youtube videos & make them audio optionally.</p>
+                        <a href="https://github.com/kenny914/Youtube-Downloader.py">View Project</a>
+                    </div>
+                </div>
             </div>
             <aside>
                 <h3>Links</h3>
