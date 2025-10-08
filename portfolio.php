@@ -79,7 +79,7 @@
                         <br />
                     <a href="https://github.com/kenny914/personal-site">Source Code</a>
                         <br />
-                    <a href="mailto:devk914@outlook.com">Email Me</a>
+                    <a href="mailto:developerktm@nonbinarybyte.com">Email Me</a>
                     </div>
             </aside>
         </main>
